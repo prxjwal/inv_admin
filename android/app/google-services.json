@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "214414028233",
+    "project_id": "socinv-f8633",
+    "storage_bucket": "socinv-f8633.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:214414028233:android:d29175724d1937d36f0c18",
+        "android_client_info": {
+          "package_name": "com.example.inv_admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "214414028233-750qdvcas9qnop1b0nlaelprnklot7ev.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBp18fBgmFrqhmG9LOqXKjWEWQ0iG_TUIo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "214414028233-750qdvcas9qnop1b0nlaelprnklot7ev.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
